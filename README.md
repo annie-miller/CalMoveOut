@@ -17,7 +17,7 @@ Acknowledgments
 
 1. About the Project
 
-	This project was meant to minimize the manual labor of cooperative reuse. It is an algorithm that matches the survey entries by time slots that they are available for and distance, in order to reduce emissions from pickups. 
+	This project was meant to minimize the manual labor of cooperative reuse. It is an algorithm that matches the survey entries by availability and distance, in order to reduce emissions from pickups. 
 
 Notes from the building of this algorithm and the meeting notes: https://docs.google.com/document/d/1Prk5LO6nRVdOV_FogytPioiG2TcuR7rPBW81MA1G-F0/edit?usp=sharing
 
